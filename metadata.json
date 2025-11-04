@@ -1,0 +1,5 @@
+{
+  "name": "LAMS - License Administration Management System",
+  "description": "A production-grade, end-to-end blueprint for a License Administration Management System (LAMS) with a real-time UI, WhatsApp ingestion, and Google Sheets integration.",
+  "requestFramePermissions": []
+}
